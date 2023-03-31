@@ -1,5 +1,5 @@
 {
   "dependencies": {
-    "pulsar-client": "^1.8.1-rc.2"
+    "pulsar-client": "^1.8.1"
   }
 }

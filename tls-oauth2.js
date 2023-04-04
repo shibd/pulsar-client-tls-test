@@ -42,7 +42,7 @@ SegfaultHandler.registerHandler('crash.log');
         serviceUrl: 'pulsar+ssl://baodi-test-7407d844-b456-49e1-987c-24f1a5c162cb.usce1-whale.test.g.sn2.dev:6651',
         authentication: auth,
         useTls: true,
-        operationTimeoutSeconds: 100,
+        operationTimeoutSeconds: 100000,
         tlsValidateHostname: true,
         // dont allow insecure connection
         tlsAllowInsecureConnection: false,

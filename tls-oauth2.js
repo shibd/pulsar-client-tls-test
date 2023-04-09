@@ -17,7 +17,7 @@
  * under the License.
  */
 
-const Pulsar = require('shibaodi-pulsar-client');
+const Pulsar = require('pulsar-client');
 
 (async () => {
 

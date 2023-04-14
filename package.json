@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "pulsar-client": "^1.8.2-rc.3",
+    "pulsar-client": "^1.8.2-rc.4",
     "ws": "^8.13.0"
   }
 }
